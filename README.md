@@ -1,1 +1,5 @@
 # Data-Visualizaton
+
+I have decided to explore the Major League Soccer's 'matches' dataset, which contains information about matches between 1996 and 2022. As a soccer fan, I am excited to explore the growth of MLS in the US. It has all the details from the home team, away team, date of the match, the year it was played, the total attendance in that match, the venue it was played, the scoreline of the match, who refereed the game, and other important information like goal-scoring times for both home and away teams, the squad who played the game and who were present in the substation bench in that match.
+
+When I went through this dataset, the first thing that came to my mind was how MLS has progressed over the years. The key attribute that can help me determine this is the average attendance in each season of the competition and how it has progressed. Another key question I was interested in was to determine which team had the most supporters attending the matches in their venues. It can help me kind of predict which teams have a big fanbase.
